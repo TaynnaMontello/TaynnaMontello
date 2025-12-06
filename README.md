@@ -6,9 +6,10 @@
 - ⛓ Criação de APIs, rotas e formulários web
 - 🗂 Versionamento e colaboração com Git e GitHub
 
-[![Taynná's GitHub stats](https://github-readme-stats.vercel.app/api?username=taynnamontel)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynnamontel&layout=compact&theme=tokyonight)
+![Taynná's GitHub stats](https://github-readme-stats.vercel.app/api?username=taynnamontello&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynnamontello&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taynnamontello&theme=tokyonight)
+
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
