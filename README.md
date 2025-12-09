@@ -10,12 +10,25 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynnamontello&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taynnamontello&theme=tokyonight)
 
+### 🚀 Tecnologias que uso
 
+- Linguagens de Programação:
+>   <img height="55" src="https://skillicons.dev/icons?i=python">
+>   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Azure SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+- Desenvolvimento Web:
+>  <img height="55" src="https://skillicons.dev/icons?i=html">
+>  <img height="55" src="https://skillicons.dev/icons?i=css">
+
+- Banco de Dados:
+>   <img height="55" src="https://skillicons.dev/icons?i=mysql">
+>   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
+
+- Ferramentas e Tecnologias:
+> <img height="55" src="https://skillicons.dev/icons?i=vscode">
+> <img height="55" src="https://skillicons.dev/icons?i=github">
+
+- Frameworks e Bibliotecas:
+>   <img height="55" src="https://skillicons.dev/icons?i=flask">
+
 </div>
