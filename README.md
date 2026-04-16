@@ -5,11 +5,12 @@
 - 🎲 Modelagem e organização de bancos de dados
 - ⛓ Criação de APIs, rotas e formulários web
 - 🗂 Versionamento e colaboração com Git e GitHub
-
+  
 ![Taynná's GitHub stats](https://github-readme-stats.vercel.app/api?username=taynnamontello&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taynnamontello&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynnamontello&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taynnamontello&layout=compact&theme=tokyonight) 
 
 ### 🚀 Tecnologias que uso
 
