@@ -33,3 +33,5 @@
 >   <img height="55" src="https://skillicons.dev/icons?i=flask">
 
 </div>
+
+![Snake animation](https://github.com/taynnamontello/taynnamontello/blob/output/github-contribution-grid-snake.svg)
